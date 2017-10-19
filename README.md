@@ -1,4 +1,8 @@
-# ImageTagger
+# Corpus Tagger
+
+Angular2 web app for tagging image corpuses. Allow user to highlight regions and name them.
+Uses local files so no communication with a server necessary. Saves tags to JSON in local directory.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
